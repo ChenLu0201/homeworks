@@ -1,0 +1,6 @@
+allprojects {
+    group 'com.tw.lane'
+    version '1.0-SNAPSHOT'
+}
+
+

@@ -1,0 +1,6 @@
+rootProject.name = 'homeworks'
+
+include 'badminton-cost-calculator'
+include 'trains'
+include 'stream-api'
+
